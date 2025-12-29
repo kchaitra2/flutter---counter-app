@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_application_3
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter---counter-app
+Developed a Flutter application to understand basic state management and user interaction.updated UI dynamically using setState().Implemented multiple button actions to improve user experience.
+>>>>>>> 9e431fe2cad5b8ce6e1ea748d46050229154ce51
